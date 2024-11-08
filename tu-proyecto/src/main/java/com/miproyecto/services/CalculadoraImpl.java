@@ -11,7 +11,7 @@ public class CalculadoraImpl implements Calculadora{
 	@Override
 	public double restar(double a, double b) {
 		// TODO Auto-generated method stub
-		return 0;
+		return a - b;
 	}
 
 	@Override
